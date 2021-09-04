@@ -1,4 +1,4 @@
-- just stop to admire the cat profile picture :3
+- just stop to admire some random cat profile picture :3
 
 <!---
 jsramirezg2/jsramirezg2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
