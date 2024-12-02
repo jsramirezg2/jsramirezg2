@@ -1,4 +1,5 @@
-- just stop to admire some random cat profile picture :3
+- apasionado por la tecnología
+- cuenta para publicar proyectos personales y en un futuro academicos
 
 <!---
 jsramirezg2/jsramirezg2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
