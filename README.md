@@ -1,4 +1,8 @@
+## ⭐ About Me
 
+I'm a Computer Science student at EAFIT University. Based in Medellín, Colombia.
+
+I'm passionate about programming and low-level systems, and I enjoy working on independent projects to deepen my understanding of the topics I love.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jsramirez1806) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanser-guerrero) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jsramirezg2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jsramirezg2@gmail.com) 
