@@ -1,5 +1,3 @@
-# 💫 About Me:
-Student at EAFIT University, Medellín, Colombia<br><br>🔭 I’m currently working on<br>Independent programming projects to build strong CS foundations<br><br>👯 I’m looking to collaborate on<br>Practical projects that reinforce systems thinking and core programming skills<br><br>🤝 I’m looking for help with<br>Systems concepts and writing more efficient, low-level code<br><br>🌱 I’m currently learning<br>Computer science fundamentals and low-level programming
 
 
 ## 🌐 Socials:
